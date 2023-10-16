@@ -47,4 +47,3 @@ function tocaSomTom () {
 }
 
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
->>>>>>> 795cf36a24c8c03947bfef6f8808c4c1536fb279
