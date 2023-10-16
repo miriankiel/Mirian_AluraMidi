@@ -1,7 +1,3 @@
-function tocaSomPom () {
-    document.querySelector('#som_tecla_pom').play();
-}
-
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
 function tocaSomClap () {
@@ -51,3 +47,4 @@ function tocaSomTom () {
 }
 
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
+>>>>>>> 795cf36a24c8c03947bfef6f8808c4c1536fb279
